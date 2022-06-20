@@ -1,7 +1,8 @@
 # SZ60
 A 60% keyboard with hot swap socket and compatible with common 60% case
 
-![image](https://user-images.githubusercontent.com/72374465/166854781-a13acc66-c0af-446a-b908-5f896b43464c.png)
+![image](https://user-images.githubusercontent.com/72374465/174640993-527639bd-26ae-4e16-92e4-f2cb98b802db.png)
+
 
 
 * Keyboard Maintainer: [Sugengz](https://github.com/sugengz)
