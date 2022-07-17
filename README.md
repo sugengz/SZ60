@@ -8,7 +8,7 @@ A 60% keyboard with hot swap socket and compatible with common 60% case
 
 
 * Keyboard Maintainer: [Sugengz](https://github.com/sugengz)
-* Hardware Availability: Soon
+* Hardware Availability: contact me in discord AgusKwan#2390
 
 Design features:
 * Using Atmega32a
